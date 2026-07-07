@@ -29,7 +29,7 @@
 
 ---
 
-### 🧬 About Me
+### About Me
 
 ```yaml
 engineer:
@@ -57,7 +57,7 @@ Open To:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -77,7 +77,7 @@ Open To:
 
 ---
 
-### 🤖 AI / ML Expertise
+### AI / ML Expertise
 
 <div align="center">
 
@@ -93,10 +93,10 @@ Open To:
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <details>
-<summary><b>🧠 Aletheia — GenAI Decision Support Platform</b></summary>
+<summary><b> Aletheia — GenAI Decision Support Platform</b></summary>
 <br/>
 
 A cloud-native decision intelligence platform that uses multi-perspective LLM reasoning to help users evaluate complex decisions in real time, backed by full LLMOps evaluation tracking.
@@ -115,7 +115,7 @@ Owned the complete lifecycle from system design to deployment, building monitori
 </details>
 
 <details>
-<summary><b>🔗 LinkShort — Distributed URL Shortener</b></summary>
+<summary><b> LinkShort — Distributed URL Shortener</b></summary>
 <br/>
 
 A production-grade distributed URL shortener built for high throughput, using a custom Base62 encoding scheme and a Redis caching layer to keep latency low under load.
@@ -134,7 +134,7 @@ Engineered for availability and observability from day one, applying core distri
 </details>
 
 <details>
-<summary><b>🏨 Hotel Booking Platform</b></summary>
+<summary><b> Hotel Booking Platform</b></summary>
 <br/>
 
 A high-availability, full-stack booking platform with an immersive 3D interface, built to handle concurrent bookings reliably at scale.
@@ -153,7 +153,7 @@ Balanced user experience and backend reliability, taking end-to-end ownership fr
 </details>
 
 <details>
-<summary><b>👁️ Real-Time Object & Face Detection</b></summary>
+<summary><b> Real-Time Object & Face Detection</b></summary>
 <br/>
 
 A computer vision pipeline built for real-time detection tasks, optimized for both accuracy and inference speed.
@@ -172,7 +172,7 @@ Applied transfer learning and inference optimization techniques to push a resear
 </details>
 
 <details>
-<summary><b>⏱️ Time Capsule — 48-Hour Hackathon Build</b></summary>
+<summary><b> Time Capsule — 48-Hour Hackathon Build</b></summary>
 <br/>
 
 A full-stack application conceived, built, and shipped within a 48-hour hackathon window as part of a 3-person Agile team.
@@ -192,7 +192,7 @@ Focused on rapid scoping and delivery, incorporating real-time feedback under pr
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Software Engineering Virtual Experience**
 **JPMorgan Chase & Co.** (Forage Simulation) · *May 2026*
@@ -248,54 +248,57 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥈 NPTEL Silver Medal | Design Thinking (Jan 2024) |
-| 📜 NPTEL Certification | Database Management Essentials (Feb–Mar 2025) |
-| 🔐 Security Training | Web Application Penetration Testing — PSG College of Technology (Jan 2024) |
-| 💻 GUVI Certification | ReactJS & Web Development |
-| 🧮 Competitive Programming | 269+ LeetCode Problems Solved (Easy/Medium/Hard) |
+| NPTEL Silver Medal | Design Thinking (Jan 2024) |
+| NPTEL Certification | Database Management Essentials (Feb–Mar 2025) |
+| GUVI Certification | ReactJS & Web Development |
+| Security Training | Web Application Penetration Testing — PSG College of Technology (Jan 2024) |
+| Competitive Programming | 269+ LeetCode Problems Solved (Easy/Medium/Hard) |
 
 </div>
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 **AWS**
 
-![AWS CCP]
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
 
 **Google Cloud**
 
-![GCP ACE]
+<img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Associate Cloud Engineer"/>
 
 **Oracle**
 
-![OCI]
+<img src="https://img.shields.io/badge/Oracle-OCI%202025%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI 2025 Foundations Associate"/>
 
 **NPTEL**
 
-![NPTEL Design Thinking]
-![NPTEL DBMS]
+<img src="https://img.shields.io/badge/NPTEL-Design%20Thinking%20(Silver%20Medal)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL Design Thinking Silver Medal"/>
+<img src="https://img.shields.io/badge/NPTEL-Database%20Management%20Essentials-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NPTEL Database Management Essentials"/>
 
 ---
 
-### 💻 Coding Profiles
+### Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-269%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vijaysyam17/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-269%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-A855F7?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -310,7 +313,7 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 ---
 
-### 🏅 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -320,7 +323,7 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 ---
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -330,7 +333,7 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -340,7 +343,7 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 ```yaml
 current_focus:
@@ -362,7 +365,7 @@ current_focus:
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <div align="center">
 
