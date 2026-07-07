@@ -34,7 +34,6 @@
 ```yaml
 engineer:
   name: "Vijay Syam BK"
-  role: "Software Engineering Intern Candidate"
   focus: ["Distributed Systems", "AI/ML Product Engineering", "Full Stack Development"]
   philosophy: "Ship production-ready systems, not prototypes"
 ```
