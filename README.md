@@ -268,20 +268,20 @@ Prototyped feature enhancements for a production gaming codebase with a focus on
 
 **AWS**
 
-![AWS CCP](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP]
 
 **Google Cloud**
 
-![GCP ACE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP ACE]
 
 **Oracle**
 
-![OCI](https://img.shields.io/badge/Oracle-OCI%202025%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI]
 
 **NPTEL**
 
-![NPTEL Design Thinking](https://img.shields.io/badge/NPTEL-Design%20Thinking%20(Silver%20Medal)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL DBMS](https://img.shields.io/badge/NPTEL-Database%20Management%20Essentials-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL Design Thinking]
+![NPTEL DBMS]
 
 ---
 
